@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rui Cheng
-title: PhD Candidate @Caltech
+title: Postdoc @MIT
 email: rui.cheng@caltech.edu
 website: https://ruillercoaster.github.io
 
@@ -48,7 +48,7 @@ google_analytics: "G-91Z72YNJZ1"
 # about_title: About Me
 about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rui and I'm a PhD Candidate at Frankenberg Lab, Caltech. My research interest is evaluating vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
+  Hi, my name's Rui and I am a postdoc at Des Marais Lab at MIT. I recently graduated from Frankenberg Lab, Caltech. My research interest is evaluating vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
   I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
 
@@ -58,7 +58,7 @@ content:
     content:
       - layout: left
         title: California Institute of Technology
-        caption: Ph.D. 2017 - present, M.S. 2018
+        caption: Ph.D. 2017 - 2023
         sub_title: 
         # quote: >
         #  
