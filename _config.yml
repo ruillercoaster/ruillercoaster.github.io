@@ -48,17 +48,31 @@ google_analytics: "G-91Z72YNJZ1"
 # about_title: About Me
 about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rui and I am a postdoc at Des Marais Lab at MIT. I recently graduated from Frankenberg Lab, Caltech. My research interest is evaluating vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
+  Hi, my name's Rui and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
   I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
 
 content:
+  - title: Appointment 
+    layout: list
+    content:
+      - layout: left
+        title: Postdoc
+        caption: September, 2022 - present
+        # sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **Massachusetts Institute of Technology**
+
+          **PIs**: Prof. David Des Marais, Prof. Saurabh Amin, Prof. Dara Entekhabi, and Prof. Charles Harvey
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: California Institute of Technology
-        caption: Ph.D. 2017 - 2023
+        caption: Ph.D. 2023
         sub_title: 
         # quote: >
         #  
@@ -81,7 +95,7 @@ content:
 
       - layout: left
         title: Lehigh University
-        caption: M.S. 2015 - 2017
+        caption: M.S. 2017
         sub_title: 
         # quote: >
         #  
@@ -93,7 +107,7 @@ content:
           **Thesis**: The associated effects of temperature and soil moisture on forest carbon fluxes in the contiguous US
       - layout: left
         title: Sun Yat-sen University
-        caption: B.S. 2011 - 2015
+        caption: B.S. 2015
         sub_title: 
         # quote: >
         #  
@@ -141,9 +155,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         caption: |+
-          <em> in prep </em>
+          <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
         description: | # this will include new lines to allow paragraphs
-         
+          * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
       - layout: left
         title: Radiative Transfer in Mountainous Regions
         # link: github.com/sproogen
@@ -158,7 +172,7 @@ content:
         caption: |+
           Topographic dependence of radiation and vegetation dynamics.
         description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>under review</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>.
+          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>under minor revision</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>.
       
       - layout: left
         title: Interannaul Variability of Precipitation in SoCal
@@ -279,7 +293,7 @@ content:
             Data and Coding Instructor at the Carpentries, Caltech
             
       - layout: left
-        title: 2016
+        title: "2016"
         # link: boringcompany.com
         # # link_text: boringcompany.com
         # sub_title: Prof. Bethany Elmann
