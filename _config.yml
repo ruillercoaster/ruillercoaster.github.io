@@ -227,6 +227,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 2022
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            (Q)GIS Tutorial for Drone Images
+
+            Instructor, MIT
+
+      - layout: left
         title: 2021 Spring
         # link: boringcompany.com
         # # link_text: boringcompany.com
@@ -237,7 +250,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             GE 157c: Remote Sensing for Environmental and Geological Applications
 
-            Prof. Bethany Elmann, Caltech
+            TA for Prof. Bethany Elmann, Caltech
 
             
       - layout: left
@@ -251,7 +264,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ESE 103: Earth’s Biogeochemical Cycles 
             
-            Prof. Christian Frankenberg, Caltech
+            TA for Prof. Christian Frankenberg, Caltech
 
             
 
@@ -266,7 +279,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ESE 131a: Physical Oceanography I 
             
-            Prof. Jörn Callies, Caltech
+            TA for Prof. Jörn Callies, Caltech
 
             
       
@@ -281,7 +294,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ESE 101: Earth’s Atmosphere 
             
-            Prof. Tapio Schneider, Caltech
+            TA for Prof. Tapio Schneider, Caltech
 
       - layout: left
         title: 2019 - present
@@ -303,7 +316,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Certificate of Participation in Teacher Development Program (I+II), Lehigh University
+            Teacher Development Program (I+II), Lehigh University
             
             
 
