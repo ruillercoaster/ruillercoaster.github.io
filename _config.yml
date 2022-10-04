@@ -158,6 +158,8 @@ content:
           <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
         description: | # this will include new lines to allow paragraphs
           * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
+
+          * Byrne, B., Liu, J., Yi, Y., Chatterjee, A., Basu, S., **Cheng, R.**, Doughty, R., Chevallier, F., Bowman, K.W., Parazoo, N. C., Crisp, D., Li, X., Xiao, J., Sitch, S., Guenet, B., Deng, F., Johnson, M. S., Philip, S., Mcguire, P. C., and Miller, C. E. (<em>accepted</em>), Multi-year observations reveal a larger than expected autumn respiration signal across northeast Eurasia. <em>Biogeosciences</em>. 
       - layout: left
         title: Radiative Transfer in Mountainous Regions
         # link: github.com/sproogen
