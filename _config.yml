@@ -121,6 +121,40 @@ content:
   - title: Projects & Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+         
+      - layout: left
+        title: Remotely Estimating Photosynthetic Seasonality in the Arctic
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>accepted</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
+
+          * Byrne, B., Liu, J., Yi, Y., Chatterjee, A., Basu, S., **Cheng, R.**, Doughty, R., Chevallier, F., Bowman, K.W., Parazoo, N. C., Crisp, D., Li, X., Xiao, J., Sitch, S., Guenet, B., Deng, F., Johnson, M. S., Philip, S., Mcguire, P. C., and Miller, C. E. (<em>accepted</em>), Multi-year observations reveal a larger than expected autumn respiration signal across northeast Eurasia. <em>Biogeosciences</em>. 
+      - layout: left
+        title: Radiative Transfer in Mountainous Regions
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          Topographic dependence of radiation and vegetation dynamics.
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>accepted</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [published version by request, [accepted preprint](https://drive.google.com/file/d/1bHDp1fRcfoD3f6G0TMbm6aTYojpNX39o/view?usp=sharing)]
+      
       - layout: left
         title: Photosynthetic Phenology in an Evergreen Needleleaf Forest in Colorado
         # link: github.com/sproogen
@@ -142,40 +176,7 @@ content:
           * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., 2019. Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
 
           * Seyednasrollah, B., Bowling, D.R., **Cheng, R.**, Logan, B.A., Magney, T.S., Frankenberg, C., Yang, J.C., Young, A.M., Hufkens, K., Arain, M.A. and Black, T.A., 2020. Seasonal variation in the canopy color of temperate evergreen conifer forests. <em>New Phytologist</em>. [https://doi.org/10.1111/nph.17046](https://doi.org/10.1111/nph.17046)
-      
-      - layout: left
-        title: Remotely Estimating Photosynthetic Seasonality in the Arctic
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        caption: |+
-          <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
-        description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
-
-          * Byrne, B., Liu, J., Yi, Y., Chatterjee, A., Basu, S., **Cheng, R.**, Doughty, R., Chevallier, F., Bowman, K.W., Parazoo, N. C., Crisp, D., Li, X., Xiao, J., Sitch, S., Guenet, B., Deng, F., Johnson, M. S., Philip, S., Mcguire, P. C., and Miller, C. E. (<em>accepted</em>), Multi-year observations reveal a larger than expected autumn respiration signal across northeast Eurasia. <em>Biogeosciences</em>. 
-      - layout: left
-        title: Radiative Transfer in Mountainous Regions
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        caption: |+
-          Topographic dependence of radiation and vegetation dynamics.
-        description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>accepted</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [published version, [accepted preprint](https://drive.google.com/file/d/1bHDp1fRcfoD3f6G0TMbm6aTYojpNX39o/view?usp=sharing)]
-      
+   
       - layout: left
         title: Interannaul Variability of Precipitation in SoCal
         # link: github.com/sproogen
