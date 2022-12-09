@@ -48,7 +48,7 @@ google_analytics: "G-91Z72YNJZ1"
 # about_title: About Me
 about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rui and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
+  Hi, my name's Rui, and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic, tropics, and mountainous regions.
 
   I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
 
@@ -154,7 +154,7 @@ content:
         caption: |+
           Topographic dependence of radiation and vegetation dynamics.
         description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (2022), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [[published version by request](https://authors.elsevier.com/a/1g0jqcFXJcsE7), [accepted preprint](https://drive.google.com/file/d/1bHDp1fRcfoD3f6G0TMbm6aTYojpNX39o/view?usp=sharing)]
+          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (2022), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [[published version by request](https://authors.elsevier.com/a/1g0jqcFXJcsE7), [accepted preprint](ftp://fluo.gps.caltech.edu/XYZT_RuiPaper/AGMET_109197_topography_2022_ACCEPTED.pdf)]
       
       - layout: left
         title: Photosynthetic Phenology in an Evergreen Needleleaf Forest in Colorado
@@ -228,6 +228,7 @@ content:
   - title: Teaching # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: left
         title: "2023 spring"
         # link: boringcompany.com
@@ -240,6 +241,8 @@ content:
             1.S991:Sensors
 
             Instructure, MIT
+      
+      - layout: left
         title: "2023 winter (IAP)"
         # link: boringcompany.com
         # # link_text: boringcompany.com
@@ -252,6 +255,7 @@ content:
 
             TA for Prof. David Des Marais, MIT
 
+      - layout: left
         title: "2022 fall"
         # link: boringcompany.com
         # # link_text: boringcompany.com
