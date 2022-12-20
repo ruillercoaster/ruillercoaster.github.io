@@ -46,7 +46,7 @@ google_analytics: "G-91Z72YNJZ1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/newprofile.jpg
+about_profile_image: images/headshot_2022.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rui, and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic, tropics, and mountainous regions.
 
@@ -238,7 +238,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            1.S991: Sensors
+            1.S991: Sensing and Intelligent Systems
 
             Instructure, MIT
       
