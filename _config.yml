@@ -230,7 +230,7 @@ content:
     content:
 
       - layout: left
-        title: "2023 spring"
+        title: "2023 Spring"
         # link: boringcompany.com
         # # link_text: boringcompany.com
         # sub_title: Prof. Bethany Elmann
@@ -243,7 +243,7 @@ content:
             Instructor, MIT
       
       - layout: left
-        title: "2023 winter (IAP)"
+        title: "2023 Winter (IAP)"
         # link: boringcompany.com
         # # link_text: boringcompany.com
         # sub_title: Prof. Bethany Elmann
@@ -256,7 +256,7 @@ content:
             TA for Prof. David Des Marais, MIT
 
       - layout: left
-        title: "2022 fall"
+        title: "2022 Fall"
         # link: boringcompany.com
         # # link_text: boringcompany.com
         # sub_title: Prof. Bethany Elmann
