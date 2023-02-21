@@ -352,23 +352,21 @@ content:
   - title: Professional Service
     layout: list
     content: 
+
       - layout: left
-          title: "Review"
+        title: "Review"
           # link: boringcompany.com
           # # link_text: boringcompany.com
           # sub_title: Prof. Bethany Elmann
           # caption: 2021 Spring
           # quote: >
           #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-          description: | # this will include new lines to allow paragraphs
-              Remote Sensing of Environment; Agricultural and Forest Meteorology; Biogeosciences; ISPRS
-  Journal of Photogrammetry and Remote Sensing; Proceedings of the National Academy of
-  Sciences (PNAS) Nexus; European Journal of Remote Sensing; Geocarto International; Science
-  of the Total Environment; Remote Sensing; Forests; Sustainability
+        description: | # this will include new lines to allow paragraphs
+              Remote Sensing of Environment; Agricultural and Forest Meteorology; Biogeosciences; ISPRS Journal of Photogrammetry and Remote Sensing; Proceedings of the National Academy of Sciences (PNAS) Nexus; European Journal of Remote Sensing; Geocarto International; Science of the Total Environment; Remote Sensing; Forests; Sustainability
       
       - layout: left
-          title: "Leadership"
-          description: |
+        title: "Leadership"
+        description: |
               Ameriflux Year of Remote Sensing Organizing Committee, *present*
 
               NEON Advisory Groups (Foliar Sampling), *present*
@@ -377,8 +375,8 @@ content:
 
               Caltech Resident Associate, *2019-2022*
       - layout: left
-          title: "Outreach"
-          description: |
+        title: "Outreach & DEI"
+        description: |
 
           Science Outreach at Kona Science Coffee and Kealakehe High School, *Jan 2023*
 
@@ -393,10 +391,6 @@ content:
           Science Tutor for underrepresented students at Donegan Elementary School, Bethlehem, PA, *2016-2017*
 
           Science Tutor for students with disabilities, China, *2012-2014*
-
-
-  
-
 
 
   - title: A Little More About Me
