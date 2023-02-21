@@ -349,6 +349,25 @@ content:
             
             
 
+  - title: Professional Service
+    layout: list
+    content: 
+    - layout: left
+        title: "Review"
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Remote Sensing of Environment; Agricultural and Forest Meteorology; Biogeosciences; ISPRS
+Journal of Photogrammetry and Remote Sensing; Proceedings of the National Academy of
+Sciences (PNAS) Nexus; European Journal of Remote Sensing; Geocarto International; Science
+of the Total Environment; Remote Sensing; Forests; Sustainability
+
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
