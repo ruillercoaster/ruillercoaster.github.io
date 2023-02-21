@@ -352,19 +352,50 @@ content:
   - title: Professional Service
     layout: list
     content: 
-    - layout: left
-        title: "Review"
-        # link: boringcompany.com
-        # # link_text: boringcompany.com
-        # sub_title: Prof. Bethany Elmann
-        # caption: 2021 Spring
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Remote Sensing of Environment; Agricultural and Forest Meteorology; Biogeosciences; ISPRS
-Journal of Photogrammetry and Remote Sensing; Proceedings of the National Academy of
-Sciences (PNAS) Nexus; European Journal of Remote Sensing; Geocarto International; Science
-of the Total Environment; Remote Sensing; Forests; Sustainability
+      - layout: left
+          title: "Review"
+          # link: boringcompany.com
+          # # link_text: boringcompany.com
+          # sub_title: Prof. Bethany Elmann
+          # caption: 2021 Spring
+          # quote: >
+          #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          description: | # this will include new lines to allow paragraphs
+              Remote Sensing of Environment; Agricultural and Forest Meteorology; Biogeosciences; ISPRS
+  Journal of Photogrammetry and Remote Sensing; Proceedings of the National Academy of
+  Sciences (PNAS) Nexus; European Journal of Remote Sensing; Geocarto International; Science
+  of the Total Environment; Remote Sensing; Forests; Sustainability
+      
+      - layout: left
+          title: "Leadership"
+          description: |
+              Ameriflux Year of Remote Sensing Organizing Committee, *present*
+
+              NEON Advisory Groups (Foliar Sampling), *present*
+
+              AGU Biogeoscience DEI Committee & Graduate Travel Fund Committee, *present* 
+
+              Caltech Resident Associate, *2019-2022*
+      - layout: left
+          title: "Outreach"
+          description: |
+
+          Science Outreach at Kona Science Coffee and Kealakehe High School, *Jan 2023*
+
+          Science Outreach at 29 Palms, AGU Voices for Science Program, *2021-2022*
+
+          Caltech Women in Geoscience Club & Caltech Women Mentor Women, *2017-2022*
+
+          Mentor & Judge in SoCal Science Olympiad (high school), *2018*
+
+          Science Outreach at the Washington STEAM Multilingual Academy, Pasadena, CA, *2018*
+
+          Science Tutor for underrepresented students at Donegan Elementary School, Bethlehem, PA, *2016-2017*
+
+          Science Tutor for students with disabilities, China, *2012-2014*
+
+
+  
 
 
 
