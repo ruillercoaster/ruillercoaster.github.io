@@ -67,6 +67,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **University of Minnesota, Twin Cities**
 
+      - layout: left
         title: Postdoc
         caption: September, 2022 - August, 2023 
         # sub_title: 
