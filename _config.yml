@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Rui Cheng
-title: Postdoc @MIT
-email: rccheng@mit.edu
+title: Assistant Professor @ University of Minnesota, Twin Cities
+email: ruicheng@umn.edu
 website: https://ruillercoaster.github.io
 
 # Dark Mode (true/false/never)
@@ -48,24 +48,33 @@ google_analytics: "G-91Z72YNJZ1"
 # about_title: About Me
 about_profile_image: images/headshot_2022-min.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rui, and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic, tropics, and mountainous regions.
+  Hi, my name's Rui (pronounced as "RAY"). I am an assistant professor at the Department of Bioproducts and Biosystems Engineering at the University of Minnesota, Twin Cities. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic, tropics, and mountainous regions.
 
   I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
+
+  *** I am hiring postdocs, graduate students, and undergrad researchers to join my lab. Please reach out if you are interested in remote sensing, modeling, and building telescopes!***
 
 content:
   - title: Appointment 
     layout: list
     content:
       - layout: left
+        title: Assistant Professor
+        caption: August, 2023 - present
+        # sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **University of Minnesota, Twin Cities**
+
         title: Postdoc
-        caption: September, 2022 - present
+        caption: September, 2022 - August, 2023 
         # sub_title: 
         # quote: >
         #  
         description: |+ # this will include new lines to allow paragraphs
           **Massachusetts Institute of Technology**
 
-          **PIs**: Prof. David Des Marais, Prof. Saurabh Amin, Prof. Dara Entekhabi, and Prof. Charles Harvey
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
