@@ -67,6 +67,8 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **University of Minnesota, Twin Cities**
 
+          [group website](https://ruillercoaster.github.io/EnvironmentalSensingLab/)
+
       - layout: left
         title: Postdoc
         caption: September, 2022 - August, 2023 
