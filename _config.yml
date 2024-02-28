@@ -173,7 +173,7 @@ content:
           * **Cheng, R.**, Köhler, P., & Frankenberg, C. (2022), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>. [[published version by request](https://authors.elsevier.com/a/1g0jqcFXJcsE7), [accepted preprint](ftp://fluo.gps.caltech.edu/XYZT_RuiPaper/AGMET_109197_topography_2022_ACCEPTED.pdf)]
           
       - layout: left
-        title: Photosynthetic Phenology in an Evergreen Needleleaf Forest in Colorado
+        title: Photosynthetic Phenology in an Evergreen Needleleaf Forest 
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -184,15 +184,17 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         caption: |+
-          Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP in Niwot Ridge, Colorado. 
+          Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP.
           
           These papers feature a canopy-level telescope, PhotoSpec (a.k.a. BEYONCE).
         description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544. [https://doi.org/10.5194/bg-17-4523-2020](https://doi.org/10.5194/bg-17-4523-2020)
+          * Pierrat, Z.A., Magney, T.S., **Cheng, R.**,  Maguire A., Wong C., Nehemy M., Rao M.P., Nelson S.E., Williams A.F., Grosvenor J.A.H., Smith K.R., Reblin J.S., Stutz J., Richardson A., Logan B.A., Bowling D.R., (2024) The biological basis for using optical signals to track evergreen needleleaf photosynthesis. <em>BioScience</em>, biad116, [https://doi.org/10.1093/biosci/biad116](https://doi.org/10.1093/biosci/biad116)
+          
+          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., (2020). Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544. [https://doi.org/10.5194/bg-17-4523-2020](https://doi.org/10.5194/bg-17-4523-2020)
 
-          * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., 2019. Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
+          * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., (2019). Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
 
-          * Seyednasrollah, B., Bowling, D.R., **Cheng, R.**, Logan, B.A., Magney, T.S., Frankenberg, C., Yang, J.C., Young, A.M., Hufkens, K., Arain, M.A. and Black, T.A., 2020. Seasonal variation in the canopy color of temperate evergreen conifer forests. <em>New Phytologist</em>. [https://doi.org/10.1111/nph.17046](https://doi.org/10.1111/nph.17046)
+          * Seyednasrollah, B., Bowling, D.R., **Cheng, R.**, Logan, B.A., Magney, T.S., Frankenberg, C., Yang, J.C., Young, A.M., Hufkens, K., Arain, M.A. and Black, T.A., (2020). Seasonal variation in the canopy color of temperate evergreen conifer forests. <em>New Phytologist</em>. [https://doi.org/10.1111/nph.17046](https://doi.org/10.1111/nph.17046)
    
       - layout: left
         title: Interannaul Variability of Precipitation in SoCal
