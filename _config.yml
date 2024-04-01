@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
 
+  I am maintaining a customizable gridding code for satellite soundings, e.g., gridded TROPOMI SIF (instantaneous, day-length corrected, and relative SIF). Feel free to contact me if you are interested in getting gridded products. 
+
   *** I am hiring postdocs, graduate students, and undergrad researchers to join my lab. Please reach out if you are interested in remote sensing, modeling, and building telescopes!***
 
 content:
