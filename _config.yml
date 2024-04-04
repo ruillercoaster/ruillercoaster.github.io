@@ -150,7 +150,7 @@ content:
         caption: |+
           <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
         description: | # this will include new lines to allow paragraphs
-          * **Cheng, R.** (Accepted), Solar-Induced chlorophyll Fluorescence (SIF): Towards a Better Understanding of Vegetation Dynamics and Carbon Uptake in Arctic-Boreal Ecosystems. <em>Current Climate Change Reports</em>. 
+          * **Cheng, R.** (2024), Solar-Induced chlorophyll Fluorescence (SIF): Towards a Better Understanding of Vegetation Dynamics and Carbon Uptake in Arctic-Boreal Ecosystems. <em>Current Climate Change Reports</em>. [https://doi.org/10.1007/s40641-024-00194-8](https://doi.org/10.1007/s40641-024-00194-8)
 
           * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (2022), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. [https://doi.org/10.1088/1748-9326/ac9dae](https://iopscience.iop.org/article/10.1088/1748-9326/ac9dae)
 
@@ -430,7 +430,7 @@ content:
           # quote: >
           #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-              NASA
+              NASA, EPA, DOE
 
       
       - layout: left
