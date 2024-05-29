@@ -466,16 +466,19 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my research interests, my other interests and hobbies are:
-      - Science Outreach
-      - DEI advocacy on women in STEM 
+      - Science Outreach - DEI advocacy on women in STEM 
       - Roadtrips
       - Swimming
       - Yoga
       - Jogging 
 
-      Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
+      <em> May 9, 2024 </em>  I was interviewed by [Minnesota Public Radio Climate Cast with Paul Huttner](https://www.mprnews.org/episode/2024/05/09/a-u-of-m-scientist-is-using-leaf-glow-to-better-track-climate-change)
+      
+      [![Leaf Glow](./images/SIFdemo.webp 'Leaf glow'){: width="50%"}](https://www.mprnews.org/episode/2024/05/09/a-u-of-m-scientist-is-using-leaf-glow-to-better-track-climate-change)
 
-      ![Alaska](./images/alaska.JPG "Dalton Highway")
+      <em> Summer 2020 </em> Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
+
+      ![Alaska](./images/alaska.JPG "Dalton Highway"){: width="50%"}
 
 # Footer
 footer_show_references: true
