@@ -462,6 +462,16 @@ content:
           Science Tutor for students with disabilities, China, *2012-2014*
 
 
+  - title: On Media
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **<em> June 17, 2024 </em> I helped designing and guest lectured <em> the MIT 1.104 Sensing and Intellgent Systems</em>. The student projects were showcased and awarded for their innovation.**
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7208470675060068352" height="200" width="504" frameborder="0" allow="fullscreen" title="Embedded post"></iframe>
+      <br/>
+
+      - **<em> May 9, 2024 </em>  I was interviewed by Minnesota Public Radio Climate Cast with Paul Huttner**
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7194470434166169601" height="200" width="504" frameborder="0" allow="fullscreen" title="Embedded post"></iframe>
+      <br/>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -471,12 +481,7 @@ content:
       - Swimming
       - Yoga
       - Jogging 
-
-      <em> May 9, 2024 </em>  I was interviewed by [Minnesota Public Radio Climate Cast with Paul Huttner](https://www.mprnews.org/episode/2024/05/09/a-u-of-m-scientist-is-using-leaf-glow-to-better-track-climate-change)
-      
-      [![Leaf Glow](./images/SIFdemo.webp 'Leaf glow'){: width="50%"}](https://www.mprnews.org/episode/2024/05/09/a-u-of-m-scientist-is-using-leaf-glow-to-better-track-climate-change)
-
-      <em> Summer 2020 </em> Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
+      - Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
 
       ![Alaska](./images/alaska.JPG "Dalton Highway"){: width="50%"}
 
