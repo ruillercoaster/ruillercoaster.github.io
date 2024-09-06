@@ -69,7 +69,15 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **University of Minnesota, Twin Cities**
 
-          [group website](https://ruillercoaster.github.io/EnvironmentalSensingLab/)
+          PI @ [Environmental Sensing & Modeling Lab](https://ruillercoaster.github.io/EnvironmentalSensingLab/)
+
+          _Affiliated with:_ 
+
+          Minnesota Robotics Institute
+
+          Minnesota Supercomputing Institute
+
+          Institute on the Environment
 
       - layout: left
         title: Postdoc
